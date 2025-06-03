@@ -12,12 +12,13 @@ Repositórios para adicionar resumos do Git e Github do curso de versionamento d
 
 | Aulas | Resumos |
 |------|------------|
-| Gravando alterações no repositório local | [Resumo] 
-() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
----------
+
+---
 git init
----------
+---
 
 ## Referencias
 - [Digital Innovation One]().
