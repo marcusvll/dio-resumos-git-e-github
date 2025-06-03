@@ -5,13 +5,14 @@ Repositórios para adicionar resumos do Git e Github do curso de versionamento d
 
 # Documentação
 [Documentação Git](https://git-scm.com/doc)
-[Documentação Github](htps://docs.github.com/)
+
+[Documentação Github](https://docs.github.com/)
 
 # Resumos das aulas
 
 | Aulas | Resumos |
 |------|------------|
-| Gravando alterações no repositório local | [Resumos] 
+| Gravando alterações no repositório local | [Resumo] 
 () |
 
 ---------
